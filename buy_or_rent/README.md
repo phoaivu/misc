@@ -1,10 +1,11 @@
 Thuê hay mua trả góp: khi Ông Văn Thông đi thuê nhà
 ===
 
-[Tỉ suất tối đa của giá thuê so với giá mua mà người đi mua lỗ](./figs/flipping_value_over_t.png)
+![Tỉ suất tối đa của giá thuê so với giá mua mà người đi mua lỗ](./figs/flipping_value_over_t.png)
 
 Cách dùng:
 
+    $ pip install -r requirements.txt
     $ python buy_or_rent.py
     
 Đặt giá trị phù hợp cho lãi suất cho vay *alpha*, 
